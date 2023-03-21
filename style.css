@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+
 .cabecalho {
     background-color: #ff0000;
     color: rgb(255, 255, 255);
